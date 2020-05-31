@@ -4,9 +4,12 @@ Make sure you have pipenv installed
 
 Install project dependencies
 
-pipenv install
+ `pipenv install`
 
-OR if you're having issues 
+OR if you're having issues this might work
 
-python -m pipenv install
+ `python -m pipenv install`
 
+To run the app
+
+ `python ohlcv.py`
