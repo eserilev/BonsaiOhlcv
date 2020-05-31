@@ -1,6 +1,6 @@
 Make sure you have pipenv installed
 
-pip install pipenv
+ `pip install pipenv`
 
 Install project dependencies
 
