@@ -1,11 +1,9 @@
 import datetime
-import mysql.connector
-import pymongo
 import ccxt
 
 
 # database stuff for later
-# client = pymongo.MongoClient("mongodb+srv://eserilev:$Pider37#@bonsaimongodb-wqutq.mongodb.net/test?retryWrites=true&w=majority")
+# client = pymongo.MongoClient("")
 # bonsai_db = client.bonsai
 # ohlcvCollection = bonsai_db.ohlcvs
 
